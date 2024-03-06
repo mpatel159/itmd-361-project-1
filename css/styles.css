@@ -1,7 +1,5 @@
-
-
 body {
-  font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif 'Segoe UI', Tahoma, Geneva, Verdana;
   line-height: 1.6;
   color: #333;
   padding: 20px;
@@ -56,3 +54,73 @@ img {
   display: block;
   margin: 10px 0;
 }
+
+.resume-page ul {
+  margin-left: 20px;
+}
+.resume-page ul ul {
+  list-style-type: square;
+  margin-top: 5px;
+}
+.resume-page #contact_information p {
+  font-style: italic;
+}
+
+.resume-page h1 {
+  color: #444;
+  margin-bottom: 20px;
+}
+
+.resume-page h2 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 6px;
+  margin-top: 20px;
+}
+.shows-page html {
+  font-size: 100%;
+}
+
+.shows-page body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f4f4f4
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+.shows-page nav ul {
+  list-style-type: none;
+  background-color: #333;;
+  text-align: center;
+  padding: 0.5rem 0;
+}
+
+.shows-page nav ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 0.9375rem 1.25rem;
+  display: inline-block;
+}
+
+.shows-page main {
+  max-width: 90%;
+  margin: 1rem auto;
+  padding: 1rem;
+  background: #fafafa;
+  box-shadow: 0 0.3125rem 0.9375rem rgba(0,0,0,0.1);
+}
+
+.shows-page h1, h2 {
+  margin: 0.5rem 0;
+}
+
+.shows-page section img {
+  width: 50%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0.625rem auto;
+  border-radius: 0.3125rem;
+}
+
