@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif 'Segoe UI', Tahoma, Geneva, Verdana;
+  font-family: Arial, sans-serif, Tahoma, Geneva, Verdana;
   line-height: 1.6;
   color: #333;
   padding: 20px;
@@ -84,7 +84,7 @@ img {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #f4f4f4
+  background-color: #f4f4f4;
   padding: 1rem;
   font-size: 1rem;
 }
